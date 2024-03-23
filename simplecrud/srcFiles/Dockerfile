@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-WORKDIR /app
+WORKDIR .
 
 COPY . .
 
