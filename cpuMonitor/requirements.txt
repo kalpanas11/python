@@ -2,5 +2,8 @@ Flask>=2.0.2
 psutil==5.9.8
 itsdangerous==2.2.0
 Werkzeug>=1.0.0,<3.0.0
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 73221a33db356fdacc0714dada9466adb72b8b19

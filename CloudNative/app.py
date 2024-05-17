@@ -1,4 +1,3 @@
-
 import psutil
 from flask import Flask, render_template
 
@@ -17,8 +16,4 @@ def index():
     # return f"CPU utilisation is : {cpuUsage} and MEMORY usage is : {memUsage}. {msg}"
 
 if __name__ == '__main__':
-<<<<<<< HEAD
     app.run(debug=True, host='0.0.0.0')
-=======
-    app.run(debug=True, host='0.0.0.0')
->>>>>>> 73221a33db356fdacc0714dada9466adb72b8b19
